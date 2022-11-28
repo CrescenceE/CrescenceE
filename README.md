@@ -1,4 +1,4 @@
-### Dear developer and reader,
+### Dear data lovers and reader,
 
 I am **Crescence KEMBOU**. I am a **Data analyst**.
 
@@ -15,7 +15,7 @@ I am **Crescence KEMBOU**. I am a **Data analyst**.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hugolpz" />
+  <img src="https://streak-stats.demolab.com?user=CrescenceE" />
 </p>
 
 <p align="center">
